@@ -3,7 +3,7 @@
 This project showcases my ability to work with data using R. It highlights my analytical thinking, problem-solving skills, and commitment to continuous learning. While the project is fully functional, I also use it as a foundation for deepening my understanding of R and exploring best practices in data analysis.  
 
 🚀 View the project online:  
-👉 [Click here to open the website](https://natapola.github.io/Cyclistic-Project-Data-Analytics/)
+👉 [Click here to open the website](https://natapola.github.io/Cyclistic-Project-Data-Analytics-with-R/)
 
 ---
 
